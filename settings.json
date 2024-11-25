@@ -59,6 +59,7 @@ $ git push origin main
   // commandCenter: `(Experimental)` Shows debug toolbar in the command center.
   // hidden: Do not show debug toolbar.
   "debug.toolBarLocation": "commandCenter",
+  //
   "diffEditor.ignoreTrimWhitespace": false,
   "editor.acceptSuggestionOnEnter": "off", //Press Tab to accept suggestion.
   "editor.bracketPairColorization.enabled": true,
